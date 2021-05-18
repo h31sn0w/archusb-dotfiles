@@ -3,6 +3,7 @@ exec dbus-daemon --session --address=unix:path=$XDG_RUNTIME_DIR/bus'
 exec mako
 exec udiskie
 exec autotiling
+default_border pixel 2
 #
 # Copy this to ~/.config/sway/config and edit it to your liking.
 #
