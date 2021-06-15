@@ -22,5 +22,14 @@ pipewire-pulse
 zip
 unzip
 zathura
+zathura-pdf-mupdf
 udiskie
 lf-bin
+ncdu
+xorg-xwayland
+i3status-rust
+htop
+wl-clipboard
+jq
+fzf
+rsync

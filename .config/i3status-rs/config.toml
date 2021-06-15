@@ -1,0 +1,24 @@
+[theme]
+name = "native"
+
+[[block]]
+block = "uptime"
+
+[[block]]
+block = "disk_space"
+path = "/"
+info_type = "free"
+unit = "GB"
+
+[[block]] 
+block = "backlight"
+
+[[block]]
+block = "sound"
+
+[[block]]
+block = "battery"
+
+[[block]] 
+block = "time"
+format = "%a %d/%m %R"
